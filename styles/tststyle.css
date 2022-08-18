@@ -1,0 +1,36 @@
+html{
+    font-size: 16px;
+    font-family: 'ZCOOL KuaiLe', cursive;
+    background-color: aquamarine;
+}
+
+.end{
+    color: aqua;
+}
+
+h1{
+    color: rgb(208, 44, 44);
+    border: 4px dashed black;
+    padding: 50px 0;
+    text-align: center;
+    margin: 0px auto;
+    text-shadow: 10px 0 0 black;
+}
+
+p{
+    letter-spacing: 4px;
+    line-height: 20px;
+}
+
+body{
+    width: 800px;
+    margin: 0 auto;
+    padding: 20px 100px 100px 100px;
+    background-color: bisque;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+    width: 400px;
+}
